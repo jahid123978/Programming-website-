@@ -1,0 +1,20 @@
+
+.naveContainer{
+    padding: 15px;
+}
+.navLink{
+    text-decoration: none;
+    color: white;
+    /* margin-left: 20px; */
+}
+.servicesLink{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.contestLink{
+  margin-right: 100px;
+  margin-left: 10px;
+}
+.aboutLink{
+   margin-right: 500px;
+}

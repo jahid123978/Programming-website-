@@ -1,0 +1,32 @@
+.head-text {
+    position: relative;
+ }
+ .head-image img{
+   width: 100%;
+ }
+ .text-on-image {
+   position: absolute;
+   /* right: 100%;
+   left: 60%; */
+   bottom: 70%;
+   /* color: red; */
+   /* color: rgba(3, 1, 6, 23); */
+   color: rgba(247, 11, 43, 0.979);
+   margin-left: 320px;
+ }
+ .button{
+   background-color: rgb(70, 70, 207);
+   color: white;
+   border: 1px solid rgba(255, 255, 255, 0.5);
+   padding: 5px 20px;
+   border-radius: 10px;
+   margin-top: 30px;
+
+ }
+ .card-container{
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   margin-top: 30px;
+   margin-left: 20px;
+   grid-gap: 30px;
+ }
